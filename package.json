@@ -1,0 +1,26 @@
+{
+  "name": "number-array-from-range",
+  "version": "1.0.0",
+  "description": "Function to generate an array of all numbers in range",
+  "keywords": [
+    "range"
+  ],
+  "homepage": "https://github.com/10xly/number-array-from-range#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/number-array-from-range/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/number-array-from-range.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "devDependencies": {
+    "tap": "^21.6.2"
+  }
+}
