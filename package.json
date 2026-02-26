@@ -1,17 +1,17 @@
 {
-  "name": "number-array-from-range",
-  "version": "1.0.0",
+  "name": "number-array-from-range2",
+  "version": "1.0.1",
   "description": "Function to generate an array of all numbers in range",
   "keywords": [
     "range"
   ],
-  "homepage": "https://github.com/10xly/number-array-from-range#readme",
+  "homepage": "https://github.com/10xly/number-array-from-range2#readme",
   "bugs": {
-    "url": "https://github.com/10xly/number-array-from-range/issues"
+    "url": "https://github.com/10xly/number-array-from-range2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10xly/number-array-from-range.git"
+    "url": "git+https://github.com/10xly/number-array-from-range2.git"
   },
   "license": "MIT",
   "author": "10x'ly Made",
